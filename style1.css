@@ -1,0 +1,11 @@
+card-test{
+    height: auto;
+    width: 80%;
+    margin-left: -7.5px;
+    margin-right: -7.5px;
+}
+center {
+    text-align: center;
+    margin-top: 50px; /* Adjust as needed */
+    margin-left: 100px;
+  }
